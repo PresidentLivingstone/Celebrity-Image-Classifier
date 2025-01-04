@@ -1,0 +1,10 @@
+PyWavelets
+Seaborn
+Pandas
+Numpy
+Matplotlib
+Scipy
+sklearn
+
+
+
